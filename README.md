@@ -1,2 +1,2 @@
-Описание первой идеи
+Description of first idea
 
